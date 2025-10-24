@@ -1,6 +1,6 @@
 # Hotel Management System
 
-A comprehensive hotel management system built with C#/.NET, JavaScript, and MySQL. This system provides a complete solution for managing hotels, rooms, guests, and reservations with a modern web interface.
+A hotel management system built with C#/.NET, JavaScript, and MySQL. This system provides a complete solution for managing hotels, rooms, guests, and reservations with a modern web interface.
 
 ## Features
 
@@ -62,11 +62,8 @@ dotnet run
 ```
 
 The application will start at:
-- **Website**: https://localhost:7xxx (HTTPS)
-- **API**: https://localhost:7xxx/api
-- **OpenAPI/Swagger**: https://localhost:7xxx/openapi/v1.json
-
-## Usage
+- **Website**: https://localhost:xxxx
+- **API**: https://localhost:xxxx/api
 
 ### Web Interface
 
