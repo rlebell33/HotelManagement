@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\api.js",
+      "PackagePath": "staticwebassets\\js\\api.js"
+    },
+    {
+      "Id": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\app-core.js",
+      "PackagePath": "staticwebassets\\js\\app-core.js"
+    },
+    {
+      "Id": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\booking.js",
+      "PackagePath": "staticwebassets\\js\\booking.js"
+    },
+    {
+      "Id": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\guests.js",
+      "PackagePath": "staticwebassets\\js\\guests.js"
+    },
+    {
+      "Id": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\hotels.js",
+      "PackagePath": "staticwebassets\\js\\hotels.js"
+    },
+    {
+      "Id": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\reservations.js",
+      "PackagePath": "staticwebassets\\js\\reservations.js"
+    },
+    {
+      "Id": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\rooms.js",
+      "PackagePath": "staticwebassets\\js\\rooms.js"
+    },
+    {
+      "Id": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\utils.js",
+      "PackagePath": "staticwebassets\\js\\utils.js"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.HotelManagementAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.HotelManagementAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.HotelManagementAPI.props",
+      "PackagePath": "build\\HotelManagementAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.HotelManagementAPI.props",
+      "PackagePath": "buildMultiTargeting\\HotelManagementAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.HotelManagementAPI.props",
+      "PackagePath": "buildTransitive\\HotelManagementAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

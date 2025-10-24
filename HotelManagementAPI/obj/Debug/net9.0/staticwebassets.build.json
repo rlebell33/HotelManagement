@@ -1,0 +1,3422 @@
+{
+  "Version": 1,
+  "Hash": "6bRGi4tNxHR8cFWirDFm6RmGja7m84M+TOLRQ6smAaE=",
+  "Source": "HotelManagementAPI",
+  "BasePath": "_content/HotelManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HotelManagementAPI\\wwwroot",
+      "Source": "HotelManagementAPI",
+      "ContentRoot": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\",
+      "BasePath": "_content/HotelManagementAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\0eis95kjia-lcos96gwbu.gz",
+      "SourceId": "HotelManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/HotelManagementAPI",
+      "RelativePath": "index#[.{fingerprint=lcos96gwbu}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "dsy8v4bj9m",
+      "Integrity": "4x5PPca1zJPTeqpk81iI2BZELBmliCDH25ozKHYTt7g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\77p3van12q-tzk09od8s6.gz",
+      "SourceId": "HotelManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/HotelManagementAPI",
+      "RelativePath": "js/rooms#[.{fingerprint=tzk09od8s6}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\rooms.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "uhfex0lgh4",
+      "Integrity": "Dqk2bLkoWYW1a2NCpQzKg72+Nb34HLc8jIy3+UF5vUw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\rooms.js"
+    },
+    {
+      "Identity": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\8z72285laa-616yiuls28.gz",
+      "SourceId": "HotelManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/HotelManagementAPI",
+      "RelativePath": "js/utils#[.{fingerprint=616yiuls28}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\utils.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "rbykgr8vpf",
+      "Integrity": "x4aP0gtw3u4MvdbxWBQRdePpCF57H7202VhkD5+brbs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\utils.js"
+    },
+    {
+      "Identity": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\g5pb8n4fub-nkjmn6wmfm.gz",
+      "SourceId": "HotelManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/HotelManagementAPI",
+      "RelativePath": "js/hotels#[.{fingerprint=nkjmn6wmfm}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\hotels.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "lhp1x9k7re",
+      "Integrity": "SbxiuDyyNH8qQZbH15vtvaphAqX/q4NoMfuGqQYd/xk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\hotels.js"
+    },
+    {
+      "Identity": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\imlt3itzz8-hhztutmcxd.gz",
+      "SourceId": "HotelManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/HotelManagementAPI",
+      "RelativePath": "js/app-core#[.{fingerprint=hhztutmcxd}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\app-core.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "dqxtmha08n",
+      "Integrity": "+1U3Q8WDWzGgiOL04NLE427hBKQTuX0atSNyfhjaY+M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\app-core.js"
+    },
+    {
+      "Identity": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\lhw4axtv3p-ebnqw8w6jt.gz",
+      "SourceId": "HotelManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/HotelManagementAPI",
+      "RelativePath": "js/booking#[.{fingerprint=ebnqw8w6jt}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\booking.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "j0fv1heuxb",
+      "Integrity": "Pb1vO+V++kLE07iqKhnU+b8CQN4Ec1auxhH1UfsckHY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\booking.js"
+    },
+    {
+      "Identity": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\mk7xeudljs-hcbjsvf4hc.gz",
+      "SourceId": "HotelManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/HotelManagementAPI",
+      "RelativePath": "js/api#[.{fingerprint=hcbjsvf4hc}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\api.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ateaiu47kp",
+      "Integrity": "ggz0sAURa+KUAUsqLkqzDR3wboYpV/6K3RunKdIc8k0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\api.js"
+    },
+    {
+      "Identity": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\p69g3cd9sv-avdstdu8x6.gz",
+      "SourceId": "HotelManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/HotelManagementAPI",
+      "RelativePath": "js/guests#[.{fingerprint=avdstdu8x6}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\guests.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "kuijh8550z",
+      "Integrity": "LEfFfdHL/JRwj4Q7wszrRc7kluBSkQdlWyYwEKTi0PI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\guests.js"
+    },
+    {
+      "Identity": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\u0mtfsooc2-ocy11mt3g7.gz",
+      "SourceId": "HotelManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/HotelManagementAPI",
+      "RelativePath": "js/reservations#[.{fingerprint=ocy11mt3g7}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\reservations.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3kf6g594y9",
+      "Integrity": "Q2hKzhUXnw5Dzkzen2tG8++5UVKKG+KVyR/6PK00wyc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\reservations.js"
+    },
+    {
+      "Identity": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\xoa3hki1vq-gjbnj3dk1k.gz",
+      "SourceId": "HotelManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/HotelManagementAPI",
+      "RelativePath": "css/styles#[.{fingerprint=gjbnj3dk1k}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\css\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "cdjtux34e1",
+      "Integrity": "sMbyUSgjnfCe/FHStaVauCbgsiqHZDAtoFIfRpm2tF4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\css\\styles.css",
+      "SourceId": "HotelManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\",
+      "BasePath": "_content/HotelManagementAPI",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gjbnj3dk1k",
+      "Integrity": "1LbGn5hlcdnKpkn3zqdXTTVb5ol2kMB6yqJz3oazvJs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\index.html",
+      "SourceId": "HotelManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\",
+      "BasePath": "_content/HotelManagementAPI",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lcos96gwbu",
+      "Integrity": "ResWjfbg3kUUR2RsLdRgbfrD95/Cze8/lfKN95F2woA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\api.js",
+      "SourceId": "HotelManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\",
+      "BasePath": "_content/HotelManagementAPI",
+      "RelativePath": "js/api#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hcbjsvf4hc",
+      "Integrity": "MSixoBBlrxM8BDB/QQEALidgoFaZ7W1NxRncj5pXz4g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\api.js"
+    },
+    {
+      "Identity": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\app-core.js",
+      "SourceId": "HotelManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\",
+      "BasePath": "_content/HotelManagementAPI",
+      "RelativePath": "js/app-core#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hhztutmcxd",
+      "Integrity": "5SpmFgaWyaswKUcojiCjLUN1+oIMQtTsjEoChcnbZOA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\app-core.js"
+    },
+    {
+      "Identity": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\booking.js",
+      "SourceId": "HotelManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\",
+      "BasePath": "_content/HotelManagementAPI",
+      "RelativePath": "js/booking#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ebnqw8w6jt",
+      "Integrity": "irjKBSLR2m0ZrivhXQVN8IlDfs02gKF4DnbzSmVKObE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\booking.js"
+    },
+    {
+      "Identity": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\guests.js",
+      "SourceId": "HotelManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\",
+      "BasePath": "_content/HotelManagementAPI",
+      "RelativePath": "js/guests#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "avdstdu8x6",
+      "Integrity": "ylmrxS+INUi/2J57swV72zRokvGybIYDAYu1L0b+2qQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\guests.js"
+    },
+    {
+      "Identity": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\hotels.js",
+      "SourceId": "HotelManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\",
+      "BasePath": "_content/HotelManagementAPI",
+      "RelativePath": "js/hotels#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nkjmn6wmfm",
+      "Integrity": "aSQwvZNeyPWQXz0+T+Vw6VBkpM3wlPnM0mdLtRgjoAQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\hotels.js"
+    },
+    {
+      "Identity": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\reservations.js",
+      "SourceId": "HotelManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\",
+      "BasePath": "_content/HotelManagementAPI",
+      "RelativePath": "js/reservations#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ocy11mt3g7",
+      "Integrity": "KK2AcnW4UzRpYJT9BVudNKkY/A5oAjri1ElG4Rkm6/U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\reservations.js"
+    },
+    {
+      "Identity": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\rooms.js",
+      "SourceId": "HotelManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\",
+      "BasePath": "_content/HotelManagementAPI",
+      "RelativePath": "js/rooms#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tzk09od8s6",
+      "Integrity": "SUMwDlP2vONhBMQq3x4n9UNg1zB/6/E/K7d9d4yYmRI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\rooms.js"
+    },
+    {
+      "Identity": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\utils.js",
+      "SourceId": "HotelManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\",
+      "BasePath": "_content/HotelManagementAPI",
+      "RelativePath": "js/utils#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "616yiuls28",
+      "Integrity": "9tL9s95a+aG8vtWOA/SAkVWSGFp//Qtsn0QM9Ka78Nw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\utils.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\xoa3hki1vq-gjbnj3dk1k.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000514933059"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1941"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sMbyUSgjnfCe/FHStaVauCbgsiqHZDAtoFIfRpm2tF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:02:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1LbGn5hlcdnKpkn3zqdXTTVb5ol2kMB6yqJz3oazvJs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1LbGn5hlcdnKpkn3zqdXTTVb5ol2kMB6yqJz3oazvJs="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7694"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1LbGn5hlcdnKpkn3zqdXTTVb5ol2kMB6yqJz3oazvJs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:02:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1LbGn5hlcdnKpkn3zqdXTTVb5ol2kMB6yqJz3oazvJs="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css.gz",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\xoa3hki1vq-gjbnj3dk1k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1941"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sMbyUSgjnfCe/FHStaVauCbgsiqHZDAtoFIfRpm2tF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:02:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sMbyUSgjnfCe/FHStaVauCbgsiqHZDAtoFIfRpm2tF4="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.gjbnj3dk1k.css",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\xoa3hki1vq-gjbnj3dk1k.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000514933059"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1941"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sMbyUSgjnfCe/FHStaVauCbgsiqHZDAtoFIfRpm2tF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:02:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1LbGn5hlcdnKpkn3zqdXTTVb5ol2kMB6yqJz3oazvJs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gjbnj3dk1k"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1LbGn5hlcdnKpkn3zqdXTTVb5ol2kMB6yqJz3oazvJs="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.gjbnj3dk1k.css",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7694"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1LbGn5hlcdnKpkn3zqdXTTVb5ol2kMB6yqJz3oazvJs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:02:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gjbnj3dk1k"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1LbGn5hlcdnKpkn3zqdXTTVb5ol2kMB6yqJz3oazvJs="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.gjbnj3dk1k.css.gz",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\xoa3hki1vq-gjbnj3dk1k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1941"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sMbyUSgjnfCe/FHStaVauCbgsiqHZDAtoFIfRpm2tF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:02:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gjbnj3dk1k"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sMbyUSgjnfCe/FHStaVauCbgsiqHZDAtoFIfRpm2tF4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\0eis95kjia-lcos96gwbu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000181884322"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5497"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4x5PPca1zJPTeqpk81iI2BZELBmliCDH25ozKHYTt7g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 15:17:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ResWjfbg3kUUR2RsLdRgbfrD95/Cze8/lfKN95F2woA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ResWjfbg3kUUR2RsLdRgbfrD95/Cze8/lfKN95F2woA="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74163"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ResWjfbg3kUUR2RsLdRgbfrD95/Cze8/lfKN95F2woA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 15:17:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ResWjfbg3kUUR2RsLdRgbfrD95/Cze8/lfKN95F2woA="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\0eis95kjia-lcos96gwbu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4x5PPca1zJPTeqpk81iI2BZELBmliCDH25ozKHYTt7g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 15:17:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4x5PPca1zJPTeqpk81iI2BZELBmliCDH25ozKHYTt7g="
+        }
+      ]
+    },
+    {
+      "Route": "index.lcos96gwbu.html",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\0eis95kjia-lcos96gwbu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000181884322"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5497"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4x5PPca1zJPTeqpk81iI2BZELBmliCDH25ozKHYTt7g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 15:17:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ResWjfbg3kUUR2RsLdRgbfrD95/Cze8/lfKN95F2woA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lcos96gwbu"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ResWjfbg3kUUR2RsLdRgbfrD95/Cze8/lfKN95F2woA="
+        }
+      ]
+    },
+    {
+      "Route": "index.lcos96gwbu.html",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74163"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ResWjfbg3kUUR2RsLdRgbfrD95/Cze8/lfKN95F2woA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 15:17:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lcos96gwbu"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ResWjfbg3kUUR2RsLdRgbfrD95/Cze8/lfKN95F2woA="
+        }
+      ]
+    },
+    {
+      "Route": "index.lcos96gwbu.html.gz",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\0eis95kjia-lcos96gwbu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4x5PPca1zJPTeqpk81iI2BZELBmliCDH25ozKHYTt7g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 15:17:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lcos96gwbu"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4x5PPca1zJPTeqpk81iI2BZELBmliCDH25ozKHYTt7g="
+        }
+      ]
+    },
+    {
+      "Route": "js/api.hcbjsvf4hc.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\mk7xeudljs-hcbjsvf4hc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000380807312"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2625"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ggz0sAURa+KUAUsqLkqzDR3wboYpV/6K3RunKdIc8k0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 13:34:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MSixoBBlrxM8BDB/QQEALidgoFaZ7W1NxRncj5pXz4g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hcbjsvf4hc"
+        },
+        {
+          "Name": "label",
+          "Value": "js/api.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MSixoBBlrxM8BDB/QQEALidgoFaZ7W1NxRncj5pXz4g="
+        }
+      ]
+    },
+    {
+      "Route": "js/api.hcbjsvf4hc.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\api.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8853"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MSixoBBlrxM8BDB/QQEALidgoFaZ7W1NxRncj5pXz4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 13:34:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hcbjsvf4hc"
+        },
+        {
+          "Name": "label",
+          "Value": "js/api.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MSixoBBlrxM8BDB/QQEALidgoFaZ7W1NxRncj5pXz4g="
+        }
+      ]
+    },
+    {
+      "Route": "js/api.hcbjsvf4hc.js.gz",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\mk7xeudljs-hcbjsvf4hc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2625"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ggz0sAURa+KUAUsqLkqzDR3wboYpV/6K3RunKdIc8k0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 13:34:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hcbjsvf4hc"
+        },
+        {
+          "Name": "label",
+          "Value": "js/api.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ggz0sAURa+KUAUsqLkqzDR3wboYpV/6K3RunKdIc8k0="
+        }
+      ]
+    },
+    {
+      "Route": "js/api.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\mk7xeudljs-hcbjsvf4hc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000380807312"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2625"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ggz0sAURa+KUAUsqLkqzDR3wboYpV/6K3RunKdIc8k0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 13:34:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MSixoBBlrxM8BDB/QQEALidgoFaZ7W1NxRncj5pXz4g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MSixoBBlrxM8BDB/QQEALidgoFaZ7W1NxRncj5pXz4g="
+        }
+      ]
+    },
+    {
+      "Route": "js/api.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\api.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8853"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MSixoBBlrxM8BDB/QQEALidgoFaZ7W1NxRncj5pXz4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 13:34:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MSixoBBlrxM8BDB/QQEALidgoFaZ7W1NxRncj5pXz4g="
+        }
+      ]
+    },
+    {
+      "Route": "js/api.js.gz",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\mk7xeudljs-hcbjsvf4hc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2625"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ggz0sAURa+KUAUsqLkqzDR3wboYpV/6K3RunKdIc8k0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 13:34:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ggz0sAURa+KUAUsqLkqzDR3wboYpV/6K3RunKdIc8k0="
+        }
+      ]
+    },
+    {
+      "Route": "js/app-core.hhztutmcxd.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\imlt3itzz8-hhztutmcxd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000565291125"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1768"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+1U3Q8WDWzGgiOL04NLE427hBKQTuX0atSNyfhjaY+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 15:13:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5SpmFgaWyaswKUcojiCjLUN1+oIMQtTsjEoChcnbZOA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hhztutmcxd"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app-core.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5SpmFgaWyaswKUcojiCjLUN1+oIMQtTsjEoChcnbZOA="
+        }
+      ]
+    },
+    {
+      "Route": "js/app-core.hhztutmcxd.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\app-core.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5SpmFgaWyaswKUcojiCjLUN1+oIMQtTsjEoChcnbZOA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 15:13:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hhztutmcxd"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app-core.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5SpmFgaWyaswKUcojiCjLUN1+oIMQtTsjEoChcnbZOA="
+        }
+      ]
+    },
+    {
+      "Route": "js/app-core.hhztutmcxd.js.gz",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\imlt3itzz8-hhztutmcxd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1768"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+1U3Q8WDWzGgiOL04NLE427hBKQTuX0atSNyfhjaY+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 15:13:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hhztutmcxd"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app-core.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+1U3Q8WDWzGgiOL04NLE427hBKQTuX0atSNyfhjaY+M="
+        }
+      ]
+    },
+    {
+      "Route": "js/app-core.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\imlt3itzz8-hhztutmcxd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000565291125"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1768"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+1U3Q8WDWzGgiOL04NLE427hBKQTuX0atSNyfhjaY+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 15:13:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5SpmFgaWyaswKUcojiCjLUN1+oIMQtTsjEoChcnbZOA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5SpmFgaWyaswKUcojiCjLUN1+oIMQtTsjEoChcnbZOA="
+        }
+      ]
+    },
+    {
+      "Route": "js/app-core.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\app-core.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5SpmFgaWyaswKUcojiCjLUN1+oIMQtTsjEoChcnbZOA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 15:13:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5SpmFgaWyaswKUcojiCjLUN1+oIMQtTsjEoChcnbZOA="
+        }
+      ]
+    },
+    {
+      "Route": "js/app-core.js.gz",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\imlt3itzz8-hhztutmcxd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1768"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+1U3Q8WDWzGgiOL04NLE427hBKQTuX0atSNyfhjaY+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 15:13:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+1U3Q8WDWzGgiOL04NLE427hBKQTuX0atSNyfhjaY+M="
+        }
+      ]
+    },
+    {
+      "Route": "js/booking.ebnqw8w6jt.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\lhw4axtv3p-ebnqw8w6jt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000575043128"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1738"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pb1vO+V++kLE07iqKhnU+b8CQN4Ec1auxhH1UfsckHY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"irjKBSLR2m0ZrivhXQVN8IlDfs02gKF4DnbzSmVKObE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ebnqw8w6jt"
+        },
+        {
+          "Name": "label",
+          "Value": "js/booking.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-irjKBSLR2m0ZrivhXQVN8IlDfs02gKF4DnbzSmVKObE="
+        }
+      ]
+    },
+    {
+      "Route": "js/booking.ebnqw8w6jt.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\booking.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7375"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"irjKBSLR2m0ZrivhXQVN8IlDfs02gKF4DnbzSmVKObE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ebnqw8w6jt"
+        },
+        {
+          "Name": "label",
+          "Value": "js/booking.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-irjKBSLR2m0ZrivhXQVN8IlDfs02gKF4DnbzSmVKObE="
+        }
+      ]
+    },
+    {
+      "Route": "js/booking.ebnqw8w6jt.js.gz",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\lhw4axtv3p-ebnqw8w6jt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1738"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pb1vO+V++kLE07iqKhnU+b8CQN4Ec1auxhH1UfsckHY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ebnqw8w6jt"
+        },
+        {
+          "Name": "label",
+          "Value": "js/booking.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pb1vO+V++kLE07iqKhnU+b8CQN4Ec1auxhH1UfsckHY="
+        }
+      ]
+    },
+    {
+      "Route": "js/booking.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\lhw4axtv3p-ebnqw8w6jt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000575043128"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1738"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pb1vO+V++kLE07iqKhnU+b8CQN4Ec1auxhH1UfsckHY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"irjKBSLR2m0ZrivhXQVN8IlDfs02gKF4DnbzSmVKObE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-irjKBSLR2m0ZrivhXQVN8IlDfs02gKF4DnbzSmVKObE="
+        }
+      ]
+    },
+    {
+      "Route": "js/booking.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\booking.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7375"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"irjKBSLR2m0ZrivhXQVN8IlDfs02gKF4DnbzSmVKObE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-irjKBSLR2m0ZrivhXQVN8IlDfs02gKF4DnbzSmVKObE="
+        }
+      ]
+    },
+    {
+      "Route": "js/booking.js.gz",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\lhw4axtv3p-ebnqw8w6jt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1738"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pb1vO+V++kLE07iqKhnU+b8CQN4Ec1auxhH1UfsckHY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pb1vO+V++kLE07iqKhnU+b8CQN4Ec1auxhH1UfsckHY="
+        }
+      ]
+    },
+    {
+      "Route": "js/guests.avdstdu8x6.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\p69g3cd9sv-avdstdu8x6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000556792873"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1795"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LEfFfdHL/JRwj4Q7wszrRc7kluBSkQdlWyYwEKTi0PI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ylmrxS+INUi/2J57swV72zRokvGybIYDAYu1L0b+2qQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "avdstdu8x6"
+        },
+        {
+          "Name": "label",
+          "Value": "js/guests.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ylmrxS+INUi/2J57swV72zRokvGybIYDAYu1L0b+2qQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/guests.avdstdu8x6.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\guests.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7941"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ylmrxS+INUi/2J57swV72zRokvGybIYDAYu1L0b+2qQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "avdstdu8x6"
+        },
+        {
+          "Name": "label",
+          "Value": "js/guests.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ylmrxS+INUi/2J57swV72zRokvGybIYDAYu1L0b+2qQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/guests.avdstdu8x6.js.gz",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\p69g3cd9sv-avdstdu8x6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1795"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LEfFfdHL/JRwj4Q7wszrRc7kluBSkQdlWyYwEKTi0PI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "avdstdu8x6"
+        },
+        {
+          "Name": "label",
+          "Value": "js/guests.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LEfFfdHL/JRwj4Q7wszrRc7kluBSkQdlWyYwEKTi0PI="
+        }
+      ]
+    },
+    {
+      "Route": "js/guests.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\p69g3cd9sv-avdstdu8x6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000556792873"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1795"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LEfFfdHL/JRwj4Q7wszrRc7kluBSkQdlWyYwEKTi0PI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ylmrxS+INUi/2J57swV72zRokvGybIYDAYu1L0b+2qQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ylmrxS+INUi/2J57swV72zRokvGybIYDAYu1L0b+2qQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/guests.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\guests.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7941"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ylmrxS+INUi/2J57swV72zRokvGybIYDAYu1L0b+2qQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ylmrxS+INUi/2J57swV72zRokvGybIYDAYu1L0b+2qQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/guests.js.gz",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\p69g3cd9sv-avdstdu8x6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1795"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LEfFfdHL/JRwj4Q7wszrRc7kluBSkQdlWyYwEKTi0PI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LEfFfdHL/JRwj4Q7wszrRc7kluBSkQdlWyYwEKTi0PI="
+        }
+      ]
+    },
+    {
+      "Route": "js/hotels.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\g5pb8n4fub-nkjmn6wmfm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000587199060"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1702"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SbxiuDyyNH8qQZbH15vtvaphAqX/q4NoMfuGqQYd/xk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"aSQwvZNeyPWQXz0+T+Vw6VBkpM3wlPnM0mdLtRgjoAQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aSQwvZNeyPWQXz0+T+Vw6VBkpM3wlPnM0mdLtRgjoAQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/hotels.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\hotels.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aSQwvZNeyPWQXz0+T+Vw6VBkpM3wlPnM0mdLtRgjoAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aSQwvZNeyPWQXz0+T+Vw6VBkpM3wlPnM0mdLtRgjoAQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/hotels.js.gz",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\g5pb8n4fub-nkjmn6wmfm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1702"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SbxiuDyyNH8qQZbH15vtvaphAqX/q4NoMfuGqQYd/xk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SbxiuDyyNH8qQZbH15vtvaphAqX/q4NoMfuGqQYd/xk="
+        }
+      ]
+    },
+    {
+      "Route": "js/hotels.nkjmn6wmfm.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\g5pb8n4fub-nkjmn6wmfm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000587199060"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1702"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SbxiuDyyNH8qQZbH15vtvaphAqX/q4NoMfuGqQYd/xk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"aSQwvZNeyPWQXz0+T+Vw6VBkpM3wlPnM0mdLtRgjoAQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nkjmn6wmfm"
+        },
+        {
+          "Name": "label",
+          "Value": "js/hotels.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aSQwvZNeyPWQXz0+T+Vw6VBkpM3wlPnM0mdLtRgjoAQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/hotels.nkjmn6wmfm.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\hotels.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aSQwvZNeyPWQXz0+T+Vw6VBkpM3wlPnM0mdLtRgjoAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nkjmn6wmfm"
+        },
+        {
+          "Name": "label",
+          "Value": "js/hotels.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aSQwvZNeyPWQXz0+T+Vw6VBkpM3wlPnM0mdLtRgjoAQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/hotels.nkjmn6wmfm.js.gz",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\g5pb8n4fub-nkjmn6wmfm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1702"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SbxiuDyyNH8qQZbH15vtvaphAqX/q4NoMfuGqQYd/xk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nkjmn6wmfm"
+        },
+        {
+          "Name": "label",
+          "Value": "js/hotels.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SbxiuDyyNH8qQZbH15vtvaphAqX/q4NoMfuGqQYd/xk="
+        }
+      ]
+    },
+    {
+      "Route": "js/reservations.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\u0mtfsooc2-ocy11mt3g7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000516262261"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1936"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q2hKzhUXnw5Dzkzen2tG8++5UVKKG+KVyR/6PK00wyc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KK2AcnW4UzRpYJT9BVudNKkY/A5oAjri1ElG4Rkm6/U=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KK2AcnW4UzRpYJT9BVudNKkY/A5oAjri1ElG4Rkm6/U="
+        }
+      ]
+    },
+    {
+      "Route": "js/reservations.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\reservations.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9728"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KK2AcnW4UzRpYJT9BVudNKkY/A5oAjri1ElG4Rkm6/U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KK2AcnW4UzRpYJT9BVudNKkY/A5oAjri1ElG4Rkm6/U="
+        }
+      ]
+    },
+    {
+      "Route": "js/reservations.js.gz",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\u0mtfsooc2-ocy11mt3g7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q2hKzhUXnw5Dzkzen2tG8++5UVKKG+KVyR/6PK00wyc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q2hKzhUXnw5Dzkzen2tG8++5UVKKG+KVyR/6PK00wyc="
+        }
+      ]
+    },
+    {
+      "Route": "js/reservations.ocy11mt3g7.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\u0mtfsooc2-ocy11mt3g7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000516262261"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1936"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q2hKzhUXnw5Dzkzen2tG8++5UVKKG+KVyR/6PK00wyc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KK2AcnW4UzRpYJT9BVudNKkY/A5oAjri1ElG4Rkm6/U=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ocy11mt3g7"
+        },
+        {
+          "Name": "label",
+          "Value": "js/reservations.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KK2AcnW4UzRpYJT9BVudNKkY/A5oAjri1ElG4Rkm6/U="
+        }
+      ]
+    },
+    {
+      "Route": "js/reservations.ocy11mt3g7.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\reservations.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9728"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KK2AcnW4UzRpYJT9BVudNKkY/A5oAjri1ElG4Rkm6/U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ocy11mt3g7"
+        },
+        {
+          "Name": "label",
+          "Value": "js/reservations.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KK2AcnW4UzRpYJT9BVudNKkY/A5oAjri1ElG4Rkm6/U="
+        }
+      ]
+    },
+    {
+      "Route": "js/reservations.ocy11mt3g7.js.gz",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\u0mtfsooc2-ocy11mt3g7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q2hKzhUXnw5Dzkzen2tG8++5UVKKG+KVyR/6PK00wyc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ocy11mt3g7"
+        },
+        {
+          "Name": "label",
+          "Value": "js/reservations.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q2hKzhUXnw5Dzkzen2tG8++5UVKKG+KVyR/6PK00wyc="
+        }
+      ]
+    },
+    {
+      "Route": "js/rooms.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\77p3van12q-tzk09od8s6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000568504832"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1758"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Dqk2bLkoWYW1a2NCpQzKg72+Nb34HLc8jIy3+UF5vUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SUMwDlP2vONhBMQq3x4n9UNg1zB/6/E/K7d9d4yYmRI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SUMwDlP2vONhBMQq3x4n9UNg1zB/6/E/K7d9d4yYmRI="
+        }
+      ]
+    },
+    {
+      "Route": "js/rooms.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\rooms.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7322"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SUMwDlP2vONhBMQq3x4n9UNg1zB/6/E/K7d9d4yYmRI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SUMwDlP2vONhBMQq3x4n9UNg1zB/6/E/K7d9d4yYmRI="
+        }
+      ]
+    },
+    {
+      "Route": "js/rooms.js.gz",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\77p3van12q-tzk09od8s6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1758"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Dqk2bLkoWYW1a2NCpQzKg72+Nb34HLc8jIy3+UF5vUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dqk2bLkoWYW1a2NCpQzKg72+Nb34HLc8jIy3+UF5vUw="
+        }
+      ]
+    },
+    {
+      "Route": "js/rooms.tzk09od8s6.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\77p3van12q-tzk09od8s6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000568504832"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1758"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Dqk2bLkoWYW1a2NCpQzKg72+Nb34HLc8jIy3+UF5vUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SUMwDlP2vONhBMQq3x4n9UNg1zB/6/E/K7d9d4yYmRI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tzk09od8s6"
+        },
+        {
+          "Name": "label",
+          "Value": "js/rooms.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SUMwDlP2vONhBMQq3x4n9UNg1zB/6/E/K7d9d4yYmRI="
+        }
+      ]
+    },
+    {
+      "Route": "js/rooms.tzk09od8s6.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\rooms.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7322"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SUMwDlP2vONhBMQq3x4n9UNg1zB/6/E/K7d9d4yYmRI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tzk09od8s6"
+        },
+        {
+          "Name": "label",
+          "Value": "js/rooms.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SUMwDlP2vONhBMQq3x4n9UNg1zB/6/E/K7d9d4yYmRI="
+        }
+      ]
+    },
+    {
+      "Route": "js/rooms.tzk09od8s6.js.gz",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\77p3van12q-tzk09od8s6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1758"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Dqk2bLkoWYW1a2NCpQzKg72+Nb34HLc8jIy3+UF5vUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tzk09od8s6"
+        },
+        {
+          "Name": "label",
+          "Value": "js/rooms.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dqk2bLkoWYW1a2NCpQzKg72+Nb34HLc8jIy3+UF5vUw="
+        }
+      ]
+    },
+    {
+      "Route": "js/utils.616yiuls28.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\8z72285laa-616yiuls28.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001937984496"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "515"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x4aP0gtw3u4MvdbxWBQRdePpCF57H7202VhkD5+brbs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9tL9s95a+aG8vtWOA/SAkVWSGFp//Qtsn0QM9Ka78Nw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "616yiuls28"
+        },
+        {
+          "Name": "label",
+          "Value": "js/utils.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9tL9s95a+aG8vtWOA/SAkVWSGFp//Qtsn0QM9Ka78Nw="
+        }
+      ]
+    },
+    {
+      "Route": "js/utils.616yiuls28.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\utils.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1258"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9tL9s95a+aG8vtWOA/SAkVWSGFp//Qtsn0QM9Ka78Nw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "616yiuls28"
+        },
+        {
+          "Name": "label",
+          "Value": "js/utils.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9tL9s95a+aG8vtWOA/SAkVWSGFp//Qtsn0QM9Ka78Nw="
+        }
+      ]
+    },
+    {
+      "Route": "js/utils.616yiuls28.js.gz",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\8z72285laa-616yiuls28.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x4aP0gtw3u4MvdbxWBQRdePpCF57H7202VhkD5+brbs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "616yiuls28"
+        },
+        {
+          "Name": "label",
+          "Value": "js/utils.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x4aP0gtw3u4MvdbxWBQRdePpCF57H7202VhkD5+brbs="
+        }
+      ]
+    },
+    {
+      "Route": "js/utils.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\8z72285laa-616yiuls28.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001937984496"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "515"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x4aP0gtw3u4MvdbxWBQRdePpCF57H7202VhkD5+brbs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9tL9s95a+aG8vtWOA/SAkVWSGFp//Qtsn0QM9Ka78Nw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9tL9s95a+aG8vtWOA/SAkVWSGFp//Qtsn0QM9Ka78Nw="
+        }
+      ]
+    },
+    {
+      "Route": "js/utils.js",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\wwwroot\\js\\utils.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1258"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9tL9s95a+aG8vtWOA/SAkVWSGFp//Qtsn0QM9Ka78Nw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9tL9s95a+aG8vtWOA/SAkVWSGFp//Qtsn0QM9Ka78Nw="
+        }
+      ]
+    },
+    {
+      "Route": "js/utils.js.gz",
+      "AssetFile": "C:\\Users\\rlebe\\projects\\HotelManagement\\HotelManagementAPI\\obj\\Debug\\net9.0\\compressed\\8z72285laa-616yiuls28.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x4aP0gtw3u4MvdbxWBQRdePpCF57H7202VhkD5+brbs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Oct 2025 14:39:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x4aP0gtw3u4MvdbxWBQRdePpCF57H7202VhkD5+brbs="
+        }
+      ]
+    }
+  ]
+}
