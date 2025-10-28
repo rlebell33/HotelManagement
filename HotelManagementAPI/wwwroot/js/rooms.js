@@ -3,17 +3,86 @@
 // Rooms functions
 async function loadRooms() {
     try {
-        const rooms = await roomsApi.getAll();
+        // Get selected hotel filter
+        const hotelFilter = document.getElementById('hotel-filter');
+        const selectedHotelId = hotelFilter ? hotelFilter.value : '';
+        
+        // Load rooms with optional hotel filter
+        const rooms = selectedHotelId 
+            ? await roomsApi.getByHotel(selectedHotelId)
+            : await roomsApi.getAll();
+            
         currentData.rooms = rooms;
         displayRooms(rooms);
+        
+        // Load hotels for filter dropdown if not already loaded
+        await loadHotelsForFilter();
+        
+        // Update clear button visibility
+        toggleClearFilterButton();
     } catch (error) {
         console.error('Failed to load rooms:', error);
+    }
+}
+
+// Load hotels for the filter dropdown
+async function loadHotelsForFilter() {
+    try {
+        const hotelFilter = document.getElementById('hotel-filter');
+        if (!hotelFilter) return;
+        
+        const hotels = await hotelsApi.getAll();
+        const currentValue = hotelFilter.value;
+        
+        hotelFilter.innerHTML = '<option value="">All Hotels</option>' +
+            hotels.map(hotel => `<option value="${hotel.hotelId}">${hotel.name}</option>`).join('');
+        
+        // Restore selected value if it still exists
+        if (currentValue && hotels.some(h => h.hotelId.toString() === currentValue)) {
+            hotelFilter.value = currentValue;
+        }
+        
+        // Update clear button visibility
+        toggleClearFilterButton();
+    } catch (error) {
+        console.error('Failed to load hotels for filter:', error);
+    }
+}
+
+// Clear hotel filter
+function clearHotelFilter() {
+    const hotelFilter = document.getElementById('hotel-filter');
+    if (hotelFilter) {
+        hotelFilter.value = '';
+        loadRooms();
+    }
+}
+
+// Toggle visibility of clear filter button
+function toggleClearFilterButton() {
+    const hotelFilter = document.getElementById('hotel-filter');
+    const clearBtn = document.getElementById('clear-filter-btn');
+    
+    if (hotelFilter && clearBtn) {
+        clearBtn.style.display = hotelFilter.value ? 'inline-block' : 'none';
     }
 }
 
 function displayRooms(rooms) {
     const tbody = document.querySelector('#rooms-table tbody');
     if (!tbody) return;
+
+    if (rooms.length === 0) {
+        tbody.innerHTML = `
+            <tr>
+                <td colspan="7" class="text-center text-muted py-4">
+                    <i class="fas fa-bed fa-2x mb-2"></i>
+                    <p class="mb-0">No rooms found${document.getElementById('hotel-filter')?.value ? ' for the selected hotel' : ''}</p>
+                </td>
+            </tr>
+        `;
+        return;
+    }
 
     tbody.innerHTML = rooms.map(room => `
         <tr>
@@ -33,6 +102,33 @@ function displayRooms(rooms) {
             </td>
         </tr>
     `).join('');
+
+    // Update the room count display if filter is active
+    updateRoomCountDisplay(rooms.length);
+}
+
+function updateRoomCountDisplay(count) {
+    const hotelFilter = document.getElementById('hotel-filter');
+    if (!hotelFilter) return;
+    
+    // Remove existing count display
+    const existingCount = document.querySelector('.room-count-display');
+    if (existingCount) {
+        existingCount.remove();
+    }
+    
+    // Add count display only when filtering
+    if (hotelFilter.value) {
+        const selectedHotelName = hotelFilter.options[hotelFilter.selectedIndex].text;
+        const countDisplay = document.createElement('small');
+        countDisplay.className = 'room-count-display text-muted ms-2';
+        countDisplay.innerHTML = `<i class="fas fa-info-circle"></i> Showing ${count} room${count !== 1 ? 's' : ''} for ${selectedHotelName}`;
+        
+        const roomsHeader = document.querySelector('#rooms-section h2');
+        if (roomsHeader) {
+            roomsHeader.appendChild(countDisplay);
+        }
+    }
 }
 
 // Room modal functions

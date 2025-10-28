@@ -85,6 +85,7 @@ const hotelsApi = {
 const roomsApi = {
     getAll: () => api.get('/rooms'),
     getById: (id) => api.get(`/rooms/${id}`),
+    getByHotel: (hotelId) => api.get(`/rooms?hotelId=${hotelId}`),
     create: (room) => api.post('/rooms', room),
     update: (id, room) => api.put(`/rooms/${id}`, room),
     delete: (id) => api.delete(`/rooms/${id}`),

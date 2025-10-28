@@ -18,10 +18,18 @@ namespace HotelManagementAPI.Controllers
 
         // GET: api/Rooms
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<object>>> GetRooms()
+        public async Task<ActionResult<IEnumerable<object>>> GetRooms(int? hotelId = null)
         {
-            return await _context.Rooms
-                .Where(r => r.IsActive)
+            var query = _context.Rooms
+                .Where(r => r.IsActive);
+
+            // Filter by hotel if specified
+            if (hotelId.HasValue)
+            {
+                query = query.Where(r => r.HotelId == hotelId.Value);
+            }
+
+            return await query
                 .Select(r => new
                 {
                     r.RoomId,
