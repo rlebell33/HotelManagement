@@ -57,6 +57,9 @@ function showSection(sectionName) {
         currentSection = sectionName;
     }
 
+    // Update navigation active state
+    updateNavigationActiveState(sectionName);
+
     // Load section data - delegates to module-specific functions
     switch (sectionName) {
         case 'dashboard':
@@ -91,6 +94,20 @@ function showSection(sectionName) {
                 loadBookingData(); // From booking.js
             }
             break;
+    }
+}
+
+// Update navigation active state
+function updateNavigationActiveState(sectionName) {
+    // Remove active class from all navigation links
+    document.querySelectorAll('.nav-link').forEach(link => {
+        link.classList.remove('active');
+    });
+
+    // Add active class to the corresponding navigation link
+    const targetNavLink = document.querySelector(`.nav-link[onclick="showSection('${sectionName}')"]`);
+    if (targetNavLink) {
+        targetNavLink.classList.add('active');
     }
 }
 
